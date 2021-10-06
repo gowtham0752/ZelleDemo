@@ -1,0 +1,2 @@
+rootProject.name = "ZelleDemo"
+include ':app'
